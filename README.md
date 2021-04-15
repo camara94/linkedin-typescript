@@ -39,3 +39,6 @@ Vous souhaitez améliorer la maîtrise de vos développements JavaScript ? Vous 
 ### Les classes 
 ![classe 1](images/classe1.png)
 ![classe 2](images/classe.png)
+
+### Différence entre classe et interface
+![difference](images/differencentreclasseetinterface.png)
