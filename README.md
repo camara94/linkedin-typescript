@@ -36,3 +36,6 @@ Vous souhaitez améliorer la maîtrise de vos développements JavaScript ? Vous 
 ![créer des type en ts](images/creertypests.png)
 ### Les Interfaces
 ![interfaces](images/interface.png)
+### Les classes 
+![classe 1](images/classe1.png)
+![classe 2](images/classe.png)
