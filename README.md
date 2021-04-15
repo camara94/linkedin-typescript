@@ -6,3 +6,6 @@ Vous souhaitez améliorer la maîtrise de vos développements JavaScript ? Vous 
 
 ## Pourquoi TypeScript
 ![pourquoi typescript](images/importance.png)
+
+# Exécution du javaScript
+![execute typescript](images/executionts.png)
