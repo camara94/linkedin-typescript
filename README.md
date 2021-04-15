@@ -32,3 +32,5 @@ Vous souhaitez améliorer la maîtrise de vos développements JavaScript ? Vous 
 ### Types Courants Objets
 ![type courant objet 1](images/typecourantobjet.png)
 ![type courant objet 1](images/typecourantobjet2.png)
+## Créer des types en TypeScript
+![créer des type en ts](images/creertypests.png)
