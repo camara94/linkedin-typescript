@@ -42,3 +42,12 @@ Vous souhaitez améliorer la maîtrise de vos développements JavaScript ? Vous 
 
 ### Différence entre classe et interface
 ![difference](images/differencentreclasseetinterface.png)
+
+## Gulp 
+Gulp permet d'automatiser les projets javascripts
+![gulp](images/gulp.png)
+### Structure d'un projet Gulp
+![structure d'un projet gulp](images/strugulp.png)
+
+## Initialisation du projet Gulp
+![init gulp projet](images/initgulpprojet.png)

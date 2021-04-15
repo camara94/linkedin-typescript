@@ -1,4 +1,4 @@
-let testTypeError = (humain) => console.log(humain.name.toUpperCase());
+let testTypeError = (humain: {name: string}) => console.log(humain.name.toUpperCase());
 
 let h1 = {
     name: 'fooBar1'
