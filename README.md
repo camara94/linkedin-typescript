@@ -24,3 +24,5 @@ Vous souhaitez améliorer la maîtrise de vos développements JavaScript ? Vous 
 ![typage dynamique](images/typagesdynamique.png)
 ## Avantage du typage dynamique en Javascript
 ![avantage dy typage dynaique](images/avantagetypagedynamique.png)
+## Avantage du typage static en Javascript
+![avantage dy typage static](images/avantagedetypagestatique.png)
