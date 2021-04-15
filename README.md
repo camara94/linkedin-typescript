@@ -16,3 +16,8 @@ Vous souhaitez améliorer la maîtrise de vos développements JavaScript ? Vous 
 ![compiler TypeScript](images/compilerts.png)
 ## Usage de TypeScript
 ![usage de typescript](images/usagets.png)
+## Typage Statique
+![typage statique](images/typagestatique.png)
+
+## Typage Dynamique
+![typage dynamique](images/typagesdynamique.png)
