@@ -3,3 +3,6 @@ Vous souhaitez améliorer la maîtrise de vos développements JavaScript ? Vous 
 
 ## définition
 ![definition du typescript](images/definition.png)
+
+## Pourquoi TypeScript
+![pourquoi typescript](images/importance.png)
