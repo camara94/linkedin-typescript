@@ -7,8 +7,10 @@ Vous souhaitez améliorer la maîtrise de vos développements JavaScript ? Vous 
 ## Pourquoi TypeScript
 ![pourquoi typescript](images/importance.png)
 
-# Exécution du JavaScript
+## Exécution du JavaScript
 ![execute javascript](images/executionts.png)
 
-# Exécution du TypeScript
+## Exécution du TypeScript
 ![execute typescript](images/exectypescript.png)
+## Installation du compilateur TypeScript
+![compiler TypeScript](images/compilerts.png)
