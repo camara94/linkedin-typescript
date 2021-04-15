@@ -1,4 +1,5 @@
 /node_modules
+/mon-projet-gulp/node_modules
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof

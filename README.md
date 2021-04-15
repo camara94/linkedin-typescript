@@ -51,3 +51,27 @@ Gulp permet d'automatiser les projets javascripts
 
 ## Initialisation du projet Gulp
 ![init gulp projet](images/initgulpprojet.png)
+### Typescript et gulp-typescript
+![ts et gulp](images/installts.png)
+### Configuration de gulp
+pour configurer gulp, je vous redirige vers ce repo [configuration de gulb](https://github.com/ivogabe/gulp-typescript#basic-usage) et vous copiez la première section vous l'adaptez comme suit:
+<code>
+    <pre>
+        var gulp = require('gulp');
+        var ts = require('gulp-typescript');
+
+        gulp.task('default', function () {
+            return gulp.src('src/main.ts')
+                .pipe(ts({
+                    noImplicitAny: true,
+                    outFile: 'main.js'
+                }))
+                .pipe(gulp.dest('dist'));
+        });
+</pre>
+</code>
+
+## Pour Créer un bundle 
+On doit dabord créer un fichier **html** générelement nommé **index.hml** qui contiendra **bundle.js**
+et ensuite, on aura besoin de ces trois dependances<br/>
+<code>npm install --save-dev browserify tsify vinyl-source-stream</code>
