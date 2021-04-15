@@ -18,6 +18,9 @@ Vous souhaitez améliorer la maîtrise de vos développements JavaScript ? Vous 
 ![usage de typescript](images/usagets.png)
 ## Typage Statique
 ![typage statique](images/typagestatique.png)
+![typage statique](images/typagestatique2.png)
 
 ## Typage Dynamique
 ![typage dynamique](images/typagesdynamique.png)
+## Avantage du typage dynamique en Javascript
+![avantage dy typage dynaique](images/avantagetypagedynamique.png)
