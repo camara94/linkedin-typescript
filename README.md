@@ -14,3 +14,5 @@ Vous souhaitez améliorer la maîtrise de vos développements JavaScript ? Vous 
 ![execute typescript](images/exectypescript.png)
 ## Installation du compilateur TypeScript
 ![compiler TypeScript](images/compilerts.png)
+## Usage de TypeScript
+![usage de typescript](images/usagets.png)
