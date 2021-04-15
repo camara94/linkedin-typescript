@@ -26,3 +26,9 @@ Vous souhaitez améliorer la maîtrise de vos développements JavaScript ? Vous 
 ![avantage dy typage dynaique](images/avantagetypagedynamique.png)
 ## Avantage du typage static en Javascript
 ![avantage dy typage static](images/avantagedetypagestatique.png)
+## Types Courant en JavaScript
+### Types Courants Primitifs
+![type courant primitifs 1](images/typecourantprimitif.png)
+### Types Courants Objets
+![type courant objet 1](images/typecourantobjet.png)
+![type courant objet 1](images/typecourantobjet2.png)
